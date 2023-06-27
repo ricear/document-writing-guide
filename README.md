@@ -1,5 +1,5 @@
 <p align='center'>
-    <a href="https://github.com/ricear/document-writing-guide/blob/main/LICENSE"><img alt="GitHub"
+    <a href="https://github.com/ricear/document-writing-guide/blob/master/LICENSE"><img alt="GitHub"
             src="https://img.shields.io/github/license/ricear/document-writing-guide?label=License" /></a>
     <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" />
     <img src="https://img.shields.io/badge/platform-%20iOS | Android | Mac | Web%20-ff69b4.svg" />
